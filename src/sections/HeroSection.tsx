@@ -38,7 +38,7 @@ export function HeroSection() {
           </FadeIn>
 
           <FadeIn as="p" className="hero-name" delay={0.12} y={16}>
-            Harindu Hirumal Wimalasinghe
+            Harindu Hirumal Amaranath Wimalasinghe
           </FadeIn>
 
           <FadeIn as="p" className="hero-summary" delay={0.16} y={20}>

@@ -38,7 +38,7 @@ export function ClosingSection() {
         </div>
 
         <div className="closing-bottom contact-bottom">
-          <p>Harindu Hirumal Wimalasinghe<br />Information Technology Undergraduate · SLIIT</p>
+          <p>Harindu Hirumal Amaranath Wimalasinghe<br />Information Technology Undergraduate · SLIIT</p>
           <a className="back-to-top" href="#top">Back to top <ArrowUpRight aria-hidden="true" size={18} /></a>
         </div>
       </div>
